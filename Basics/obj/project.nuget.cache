@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOS3dep5vz9Y/jO1Drce/zwH+TrVDRcssNu/Hdn/AZSd8vHUdL49I3wmXhdlFjgca1N8+4waihy6pS/S0ZcY8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan\\Desktop\\tp7-bryan-naoum.barakat\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

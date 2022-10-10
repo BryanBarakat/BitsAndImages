@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVWWl+Qad764dzwSFLm5woAa9A16L5EMYKA0qlo5gvRDkzFIPv1iD7ymx9mx+Iaf/+zYpdZh1MmZHBvQT6KgxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan\\Desktop\\tp7-bryan-naoum.barakat\\HideAndSeek\\HideAndSeek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
